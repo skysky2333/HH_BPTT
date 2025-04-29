@@ -5,6 +5,6 @@ Precise estimation of biophysical parameters such as ion channel conductances in
 
 ---
 
-This repository contains the code accompanying the manuscript:
+This repository contains the code accompanying the:
 
-[Link to Manuscript]
+[preprint](https://www.biorxiv.org/content/10.1101/2025.04.27.650871v1)
